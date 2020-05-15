@@ -1,4 +1,4 @@
-# vuer-recipe
+# Noroff VueApp
 
 ## Project setup
 The repository does not contain the node_modules, but it does contain the package.json file. Install the modules to get all the dependencies.
